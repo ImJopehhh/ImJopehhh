@@ -1,6 +1,5 @@
 # 🌐 **ImJopeh — Front-End Developer & Minecraft Server Engineer**
 
-![Banner](https://dummyimage.com/1200x280/0f0f0f/ffffff&text=ImJopeh+%7C+Front-End+Developer+%26+Minecraft+Server+Engineer)
 
 ---
 
